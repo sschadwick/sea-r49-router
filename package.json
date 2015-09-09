@@ -1,0 +1,15 @@
+{
+  "name": "sea-d49-router",
+  "version": "0.1.0",
+  "description": "a simple http router",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "router",
+    "http"
+  ],
+  "author": "Steven Chadwick sschadwick@gmail.com",
+  "license": "MIT"
+}
